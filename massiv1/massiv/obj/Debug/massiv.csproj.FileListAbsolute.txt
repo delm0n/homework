@@ -1,0 +1,10 @@
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\bin\Debug\massiv.exe.config
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\bin\Debug\massiv.exe
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\bin\Debug\massiv.pdb
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.csprojAssemblyReference.cache
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.Form1.resources
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.Properties.Resources.resources
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.csproj.GenerateResource.cache
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.csproj.CoreCompileInputs.cache
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.exe
+B:\Новая Информатика\Лабораторная работа\massiv1\massiv\obj\Debug\massiv.pdb
