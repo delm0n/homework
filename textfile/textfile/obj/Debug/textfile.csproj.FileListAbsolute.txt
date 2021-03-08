@@ -1,0 +1,10 @@
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.csprojAssemblyReference.cache
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.Form1.resources
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.Properties.Resources.resources
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.csproj.GenerateResource.cache
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.csproj.CoreCompileInputs.cache
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\bin\Debug\textfile.exe.config
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\bin\Debug\textfile.exe
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\bin\Debug\textfile.pdb
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.exe
+B:\Новая Информатика\Лабораторная работа\textfile\textfile\obj\Debug\textfile.pdb
