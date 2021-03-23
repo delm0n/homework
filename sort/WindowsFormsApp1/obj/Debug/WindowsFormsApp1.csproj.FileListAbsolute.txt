@@ -1,0 +1,11 @@
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+B:\Новая Информатика\Лабораторная работа\sort\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
