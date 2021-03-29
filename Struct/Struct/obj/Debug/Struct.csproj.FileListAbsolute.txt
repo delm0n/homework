@@ -1,0 +1,10 @@
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\bin\Debug\Struct.exe.config
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\bin\Debug\Struct.exe
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\bin\Debug\Struct.pdb
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.Form1.resources
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.Properties.Resources.resources
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.csproj.GenerateResource.cache
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.exe
+B:\Новая Информатика\Лабораторная работа\Struct\Struct\obj\Debug\Struct.pdb
