@@ -1,0 +1,162 @@
+body {
+    margin: 0px;
+    padding: 0px 30px;
+    background-color: #251903;
+    color: #ffeed1;
+}
+
+header {
+    overflow: hidden;
+    padding: 0px 10px;
+    
+  }
+  
+  .logo {
+    text-align: center;
+    font-weight: bold;
+    color: #ffeed1;
+  }
+
+.logo-p {
+    color: #be9c00;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.header a.active {
+    background-color: #1e1301;
+    color: #ffeed1;
+    border: 1px solid #b98d39;
+    /* border-top: 0px; */
+  }
+
+.header-right {
+    float: right;
+  }
+  .header a {
+    float: left;
+    color: #ffeed1;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+  }
+  
+  .header-left {
+    float: left;
+  }
+  
+  .search {
+     float: left;
+    padding: 20px 20px 20px 15px; 
+    display: inline;
+    justify-content: center
+  }
+
+  
+  .header a:hover {
+    color: #b98d39;
+  }
+  
+ .photo-1 {
+     margin-left: 10px;
+ }
+  
+
+ .content1 {
+     margin-top: 30px;
+     display: grid;
+     grid-template-columns: 1fr 1fr 2fr 6fr 1fr ;
+     grid-column-gap: 10px
+
+ }
+  
+ .btn {
+     background-color: #7a9b37;
+     color: black;
+     border: 1px solid white;
+     border-radius: 8px;
+     text-align: center;
+     width: 100px;
+     padding: 5px 5px;
+    margin-left: 0px; 
+ }
+ 
+ .text-blok div.btn:hover {
+    background-color: #b98d39;
+ }
+ 
+ .text-blok {
+    text-align: left;
+ }
+
+ .line {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 200px 52px ;
+
+ }
+
+ .video {
+     border: 10px solid white;
+     /* margin: 0px 15px; */
+     /* width: 90%; */
+ }
+
+ .img img {
+     width: 100%;
+     margin-bottom: 20px;
+ }
+
+ .content2 {
+    margin-top: 30px;
+    background-color: #1e1301;
+    color: #ffeed1;
+    border: 1px solid #b98d39;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+ }
+ span {
+    color: #7a9b37;
+ }
+
+ .content3 {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 20px
+    
+}
+
+.content3 div {
+background-color: #eee2cc;
+}
+
+.content3 img {
+width: 90%; 
+height: 300px; 
+display: block;
+margin-top: 5px;
+margin-left: auto;
+margin-right: auto;
+object-fit: cover;
+}
+
+
+
+  @media screen and (max-width: 500px) {
+    .header a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    
+    .header-right {
+      float: none;
+    }
+  }
