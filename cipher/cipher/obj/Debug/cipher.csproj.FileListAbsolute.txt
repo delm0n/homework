@@ -1,0 +1,10 @@
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\bin\Debug\cipher.exe.config
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\bin\Debug\cipher.exe
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\bin\Debug\cipher.pdb
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.csprojAssemblyReference.cache
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.Form1.resources
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.Properties.Resources.resources
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.csproj.GenerateResource.cache
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.csproj.CoreCompileInputs.cache
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.exe
+B:\Новая Информатика\Лабораторная работа\cipher\cipher\obj\Debug\cipher.pdb
